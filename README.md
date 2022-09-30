@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![version:2.0](https://img.shields.io/badge/Version-2.0-red)]
+![version](https://img.shields.io/badge/Version-2.0-red)
 <!--
 **Julimuz/Julimuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
